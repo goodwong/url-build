@@ -1,0 +1,20 @@
+{
+    "name": "goodwong/url-build",
+    "description": "php url-build function",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "william",
+            "email": "goodwong@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "files": [
+            "src/url-build.php"
+        ]
+    }
+}
